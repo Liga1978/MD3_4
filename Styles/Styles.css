@@ -1,0 +1,39 @@
+.inner-cont {
+    display: flex;
+    flex-wrap: wrap;
+     
+    
+}
+
+.box {
+    width: 100px;
+    height: 10vh;
+    margin: 5px;
+    text-align: center;
+    padding-top: 40px;
+    font-weight: 150;
+     
+}
+
+.box:hover {
+    box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.Fizzbuzz {
+    background-color: rgb(210, 216, 250);
+    
+    
+}
+
+.Fizz {
+    background-color:rgb(246, 192, 255);
+}
+
+.Buzz {
+    background-color: rgb(232, 223, 175);
+
+}
+
+.num {
+    background-color: rgb(224, 236, 223);
+}
